@@ -3,7 +3,7 @@ import Navigation from './components/Navigation'
 
 const App = () => {
   return (
-    <div className='h-screen flex justify-center items-center bg-gray-900'>
+    <div className='h-screen flex justify-center items-center bg-zinc-950 text-zinc-100'>
       <Navigation />
     </div>
   )
