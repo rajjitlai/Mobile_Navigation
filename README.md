@@ -2,6 +2,8 @@
 
 A sleek, responsive mobile navigation bar built with **React**, **Vite**, and **Tailwind CSS**. Featuring a premium dark mode theme with a smooth, curved active indicator and gold accents.
 
+![Preview](/assets/preview.png)
+
 ## ✨ Features
 
 - **Premium Dark Design**: Zinc-based dark theme with amber/gold accents.
