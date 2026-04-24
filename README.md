@@ -60,4 +60,4 @@ npm run build
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-Created by [Rajjit Laishra](https://github.com/rajjitlai) (2026)
+Created by [Rajjit Laishram](https://github.com/rajjitlai) (2026)
